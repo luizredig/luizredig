@@ -29,15 +29,13 @@
 <div style="display: flex; align-items: center; gap: 16px;">
   <img alt="Linux" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
-  <div style="display: flex; align-items: center; gap: 16px;">
-    <img alt="WSL" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
-  WSL
+  <div style="display: flex; align-items: center; gap: 8px; width: 81px;">
+    <img alt="WSL" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" /> WSL
   </div>
 
   <img alt="Docker" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
 
   <img alt="Portainer" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/portainer/portainer-original-wordmark.svg" />
-          
 </div>
 
 ## Development Tools
