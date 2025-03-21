@@ -26,12 +26,12 @@
 
 ## Infrastructure
 
-<div style="display: flex; align-items: center; gap: 16px;">
+<div style="display: flex; align-items: center; gap: 16px; height: 45px;">
   <img alt="Linux" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
-  <div style="display: flex; align-items: center; gap: 8px; width: 81px;">
-    <img alt="WSL" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" /> WSL
-  </div>
+  <img alt="WSL" width="45px" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" /> 
+  
+  <span style="display: flex; height: 45px; width: 45px; align-items: center;">WSL</span>
 
   <img alt="Docker" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
 
