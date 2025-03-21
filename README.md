@@ -31,7 +31,7 @@
 
   <img alt="WSL" width="45px" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" /> 
   
-  <span style="display: flex; height: 45px; width: 45px; align-items: center;">WSL</span>
+  <div style="display: flex; height: 45px; width: 45px; align-items: center;">WSL</div>
 
   <img alt="Docker" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
 
